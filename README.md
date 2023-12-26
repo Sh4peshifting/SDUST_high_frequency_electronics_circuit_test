@@ -1,2 +1,3 @@
-# SDUST_high_frequency_electronics_circuit_test
-山东科技大学电子信息科学与技术2021级高频电子线路实验数据处理
+# 山科大电科21级高频实验数据处理
+1. `test` + 数字为对应实验代码，其他matlab文件为封装的函数
+2. `pic` 文件夹为本人实验作图
